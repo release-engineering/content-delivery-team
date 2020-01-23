@@ -42,4 +42,4 @@ graph:
     editable: false
 ---
 
-some text
+Content Delivery team maintains tools which lie at the end of "the pipeline". To explain it simply, our tooling basically gets a finalized and verified package and then our tooling pushes it to a customer reachable destination like Red Hat CDN or Customer Portal. We maintain those tools with the assistance of the IT department and System operators.
