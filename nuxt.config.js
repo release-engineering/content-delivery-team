@@ -57,6 +57,7 @@ export default {
       themes: {
         light: {
           red_light: "#ff0000",
+          red_medium: "#b80000",
           grey_dark: "#262626",
           red_dark: "#6e0000"
         }

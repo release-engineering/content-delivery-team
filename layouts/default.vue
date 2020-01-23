@@ -32,7 +32,7 @@ export default {
   <v-app id="content-delivery-team" light>
     <v-navigation-drawer v-model="drawer" floating dark mini-variant permanent app>
       <v-list-item class='text-center'>
-        <v-list-item-avatar color="#de1414">
+        <v-list-item-avatar color="red_medium">
           CD
         </v-list-item-avatar>
       </v-list-item>

@@ -15,7 +15,8 @@ var component = Vue.component('flowchart', {
       .cluster .label {color: #212121; font-size:15px; font-weight:bold; margin:10px} 
       .cluster rect {fill: #d6d6d6; stroke-width:0px; padding: 100px} 
       `,
-      state: {labelHeight: 32,padding: 8}
+      sequence: {height:200},
+      state: {labelHeight: 32,padding: 8, sizeUnit:10}
     }}
   }
 });

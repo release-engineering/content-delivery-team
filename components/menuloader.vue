@@ -39,7 +39,7 @@ export default component;
         <v-tooltip left>
           <template v-slot:activator="{ on }">
             <v-btn icon :href="'#'+icon.order" v-on="on">
-              <v-icon color=red_light>{{icon.name}}</v-icon>
+              <v-icon color=red_medium>{{icon.name}}</v-icon>
             </v-btn>
           </template>
           <span>{{icon.title}}</span>
