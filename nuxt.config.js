@@ -71,6 +71,9 @@ export default {
       iconfont: 'fa',
     },
   },
+  router: {
+    base: '/content-delivery-team/'
+  },
   generate: {
     dir: "docs"
   },
