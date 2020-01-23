@@ -45,7 +45,11 @@ users:
         role: engineer
         icon: fa-cog
         location: Westford
-      - name: Tulsi Chandwa
+      - name: Tulsi Chandwani
+        role: engineer
+        icon: fa-cog
+        location: Westford
+      - name: Jay Zhang
         role: engineer
         icon: fa-cog
         location: Westford
