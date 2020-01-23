@@ -73,7 +73,7 @@ export default component;
             </v-list-item-content>
           </v-list-item>
           </div>
-            <v-btn rounded color="white" primary small :href="project.url" class="pb-md-2">github page</v-btn>
+            <v-btn rounded color="white" primary small :href="project.html_url" class="pb-md-2">github page</v-btn>
           </div>
         </v-col>
       </v-row>
