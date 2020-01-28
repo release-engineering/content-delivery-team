@@ -13,5 +13,5 @@ projects:
 title: Content delivery projects
 ---
 
-Bellow are listed all the tools Content Delivery team is working on and which are open source. Apart from that, there are tools which are internal only. Majority of them are written in Python. 
+Below are listed all the tools Content Delivery team is working on and which are open source. Apart from that, there are tools which are internal only. Majority of them are written in Python.
 
