@@ -34,5 +34,5 @@ colors:
 title: What we use in our projects
 ---
 
-Bellow you can see a diagram of all the technologies we use. The bigger the name the more we use it.
+Below you can see a diagram of all the technologies we use. The bigger the name the more we use it.
 
