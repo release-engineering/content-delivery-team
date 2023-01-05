@@ -13,7 +13,7 @@
   "dependencies": {
     "axios": "^0.19.1",
     "front-matter": "^3.1.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vue-fusioncharts": "^3.0.4",
     "vue-mermaid": "0.0.12",
     "vue-wordcloud": "^1.1.1"
